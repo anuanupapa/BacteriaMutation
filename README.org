@@ -1,0 +1,25 @@
+* Mutations of Bacteria from virus Sensitivity to virus Resistance
+** Observation
+   When a pure bacterial culture is. attacked by a bacterial virus, the culture will clear after a few hours due to destruction of the sensitive cells by the virus. However, after further incubation for a few hours, or sometimes days, the culture will often become turbid again, due to the growth of a bacterial variant which is resistant to the action of the virus.
+*** Bacterial Culture is grown from single cell. 
+*** Virus is added to the culture.
+*** A small fraction of bacteria survived the attack. *Original Variants*
+    These *Original Variants dont even adsorb the virus*.
+    The receptor proteins on the surface of the bacteria which are responsible for the docking of the virus to the bacteria d not exist in 
+    the original variants?
+** Hypothesis
+*** Hypothesis A - Mutation to Immunity
+    *Finite Probability of a bacteria to evolve from sensitive to resistant => Gradual increase in ratio with time*
+    *Probability of survival in the first attack runs in clones*, lineage, offsprings
+    Original Variants were resistant before virus was added, because of mutations. 
+    /No adsorption + Resistance/ for Original Variants
+    Probability distribution will have a long tail of many resistant bacteria.
+*** Hypothesis B - Acquired Immunity
+    *Finite Probability of a bacteria to survive a virus attack => constant ratio with time*
+    *Probability of survival in the first attack do not run in clones*, lineage, offsprings.
+    Probability distribution will be a poisson distribution for a large bacterial culture.
+**** Type 1
+     Original Variants interact with virus but somehow survive because of mutations. The later offsprings have the passed on immunity and they do not adsorb the virus.
+     *Adsorption + Resistance* for Original Variants
+**** Type 2 
+     Random Physiological Variations are responsible for the survival of a few bacterias. Hereditary immunity passed on.
